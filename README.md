@@ -19,5 +19,5 @@ Hola soy Raul Tortosa Serrano, soy un joven informatico que tiene ganas de traba
 >Aparte he trabajado en otros sitios cara el publico y tambien montando ordenadores para otras personas.
 
 ## Redes
--linkedin:[title](www.linkedin.com/in/raul-tortosa-serrano)
+[-linkedin:](www.linkedin.com/in/raul-tortosa-serrano)
 
